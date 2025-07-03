@@ -100,7 +100,7 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 
 - `Main.java`
 
-    - [ ] TODO: add the Logout Use Case to the app using the appBuilder
+    - [x] TODO: add the Logout Use Case to the app using the appBuilder
     - Hint: check how the other usecases were added.
 
 * * *
@@ -121,12 +121,12 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 
 - `LogoutInputData.java` (should be done with the LogoutInteractor TODOs below)
 
-    - [ ] TODO: save the current username in an instance variable and add a getter.
+    - [x] TODO: save the current username in an instance variable and add a getter.
 
 - `LogoutInteractor.java` (tip: refer to `ChangePasswordInteractor.java` for similar code)
 
-    - [ ] TODO: save the DAO and Presenter in the instance variables.
-    - [ ] TODO: implement the logic of the Logout Use Case
+    - [x] TODO: save the DAO and Presenter in the instance variables.
+    - [x] TODO: implement the logic of the Logout Use Case
 
 * * *
 

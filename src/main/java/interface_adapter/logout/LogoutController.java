@@ -8,7 +8,7 @@ import use_case.logout.LogoutInputData;
  */
 public class LogoutController {
 
-    private final LogoutInputBoundary logoutUseCaseInteractor;
+    private LogoutInputBoundary logoutUseCaseInteractor;
 
     public LogoutController(LogoutInputBoundary logoutUseCaseInteractor) {
         this.logoutUseCaseInteractor = logoutUseCaseInteractor;

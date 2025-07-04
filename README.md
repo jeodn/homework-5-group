@@ -132,15 +132,15 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 
 - `LogoutOutputData.java`
 
-    - [ ] TODO: save the parameters in the instance variables.
+    - [x] TODO: save the parameters in the instance variables.
 
 * * *
 
 - `LogoutPresenter.java` (tip: refer to `SignupPresenter.java` for similar code)
 
-    - [ ] TODO: assign to the three instance variables.
-    - [ ] TODO: have prepareSuccessView update the LoggedInState
-    - [ ] TODO: have prepareSuccessView update the LoginState
+    - [x] TODO: assign to the three instance variables.
+    - [x] TODO: have prepareSuccessView update the LoggedInState
+    - [x] TODO: have prepareSuccessView update the LoginState
 
 * * *
 
